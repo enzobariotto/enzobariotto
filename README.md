@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzin_._/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/ranpz/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzobariotto&commits_year=2020)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enzobariotto&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div style="display: inline_block"><br/>
