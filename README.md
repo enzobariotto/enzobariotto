@@ -1,14 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FFABFF&textBg=false&section=header" alt="header"/> 
 
 
-<font color="#00FFAB">
 
 # Hey! 🙋‍♂️ Be welcome to my profile ;)
 # I hope you enjoy it!
 
 ### I am a student of Internet Systems and an enthusiast of web development. Currently focused on creating efficient solutions and learning new technologies.
 
-</font>
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=10000&color=00FFAB&width=435&lines=Contact%3A)](https://git.io/typing-svg)
