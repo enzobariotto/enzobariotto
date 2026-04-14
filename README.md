@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FFABFF&textBg=false&section=header" alt="header"/> 
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=41B883&textBg=false&section=header" alt="header"/> 
 
 # Hey! 🙋‍♂️ Be welcome to my profile ;)
 # I hope you enjoy it!
@@ -9,7 +7,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=10000&color=00FFAB&width=435&lines=Contact%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=10000&color=41B883&width=435&lines=Contact%3A)](https://git.io/typing-svg)
 
 <p align="left">
   <a href="mailto:enzobariotto@gmail.com">
@@ -29,9 +27,9 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=10000&color=00FFAB&width=435&lines=Tecnologies+and+tools%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=10000&color=41B883&width=435&lines=Tecnologies+and+tools%3A)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=10000&color=00FFAB&width=435&lines=Languages+%E2%80%8B%E2%80%8Band+Frameworks%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=10000&color=41B883&width=435&lines=Languages+%E2%80%8B%E2%80%8Band+Frameworks%3A)](https://git.io/typing-svg)
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -41,7 +39,7 @@
 </div>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=10000&color=00FFAB&width=435&lines=+Environment+and+Tools%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=10000&color=41B883&width=435&lines=+Environment+and+Tools%3A)](https://git.io/typing-svg)
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
@@ -51,12 +49,12 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=10000&color=00FFAB&width=435&lines=GitHub+stats%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=10000&color=41B883&width=435&lines=GitHub+stats%3A)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enzobariotto&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enzobariotto&theme=vue)](https://github.com/enzobariotto/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzobariotto&theme=nord&fire=00FFAB&ring=00FFAB&sideNums=00FFAB&currStreakLabel=00FFAB" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=enzobariotto&theme=vue-dark&hide_border=true&border_radius=1" alt="GitHub Streak" /></a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FFABFF&textBg=false&section=footer" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=41B883&textBg=false&section=footer" alt="header"/> 
